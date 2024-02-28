@@ -1,5 +1,5 @@
 # Title
-Aging of biomass burnig aerosols over West Africa
+Aircraft measurements of biomass burnig aerosols over West Africa
 
 #Author
 Naiara Santos
@@ -11,3 +11,5 @@ Particle size was measured using a PCASP (Bloggs et al 2004)
 
 A large xxxxxxxxx
 
+#Simulations
+jyjmyhnthnthnthnthnr t

@@ -5,8 +5,12 @@ Aircraft measurements of biomass burnig aerosols over West Africa
 
 
 #Author
-Naiara Santos
 John Smith
+Naiara Santos
+
+
+#Add author affiliations
+University College London
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa

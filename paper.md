@@ -21,3 +21,6 @@ jyjmyhnthnthnthnthnr t
 #Methodology
 
 This study was carried out using xxxxx
+
+#Figures
+
